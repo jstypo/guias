@@ -1,8 +1,8 @@
 guía de tipometría
 
 * introducción
-desarrollo a partir de guía básica usada en el idd en caracas como
-material de apoyo en curso de tipografía, 1983
+desarrollada a partir de una guía básica usada en el idd en caracas
+como material de apoyo en curso de tipografía, 1983
 
 * agradecimientos
 
@@ -18,7 +18,7 @@ normativa respecto a los cuerpos.
 2. cada cuerpo usaba nombre prosaico
 3. los cuerpos no tenían proporcionalidad (ni siquiera siendo de un
    solo fabricante)
-4. mercadeo de tipografía 
+4. mercadeo de tipografía
 
 Fuentes:
 Rowes Mores, Dissertation upon English Typographical Founders and Founderies
@@ -27,16 +27,18 @@ Fournier, Manuel Typographique
 
 * primeros pasos para obtener una solución
 
-** Sebastién Truchet [André, tugboat]
+** [[http://www.tug.org/TUGboat/Articles/tb20-1/tb62andr.pdf][Father Truchet, the typographic point, the romain du roi, and tilings]], André, Jacques and Girou, Denis, in Tugboar, vol 20 (1999), no. 1
 ** Pierre Simon Fournier [Manuel Typographique, google books]
+** Marder, Luse & Co.
 
 * posteriores desarrollos
 
-** cf Boag?
+** cf Boag, Andrew, [[http://www.boag.co.uk/downloads/pdfs/Typopapers.PDF][Typographic measurement: a chronology]], [[http://www.boag.co.uk/downloads/pdfs/Coldeye.PDF][What is the point]]
 
 * actualidad
 
 ** el "big point" de adobe
+PLRM?
 
 * futuro?
 
@@ -45,3 +47,4 @@ Fournier, Manuel Typographique
 Fuentes
 
 * bibliografía
+
